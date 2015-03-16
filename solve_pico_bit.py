@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #tested on python2.7
-
+# https://2013.picoctf.com bitwise
 #encryption array
 #user_arr.append( ( ( (thing << 5) | (thing >> 3) ) ^ 111) & 255 )
 
